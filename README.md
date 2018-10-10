@@ -1,30 +1,30 @@
 # GCP compute servers
 
-. Serverless\
+. Serverless
 
-> function\
+> function
 > Apps
 
 . WithServer
 
-> VMs\
+> VMs
 > containers
 
 
 ## Cloud servervices
 
-> IAAS \
+> IAAS 
 
 Google compute Engine
 
-> PAAS\
+> PAAS
 
 Google App engine
 
-> SAAS\
+> SAAS
 
-Gmail\
-office\
+Gmail
+office
 office365
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*Q37Sxg8-jJ5-4vxQCHi9Ng.png)
